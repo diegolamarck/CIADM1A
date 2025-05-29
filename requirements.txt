@@ -1,4 +1,13 @@
-pandas
-numpy
-plotly
 streamlit
+pandas
+matplotlib
+seaborn
+numpy
+scikit-learn
+plotly
+statsmodels
+tensorflow
+pandas
+streamlit
+requests
+scikit-learn
